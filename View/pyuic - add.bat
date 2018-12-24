@@ -1,0 +1,1 @@
+pyuic5 -x add.ui -o add.py
