@@ -6,5 +6,5 @@ O projeto foi desenvolvido em Python utilizando o padrão MVC (Model, View, Cont
 
 # [EN] Network Chat - Real Time Programming
 
-Design a local network chat in Python using threads and PyQt framework. The program consists of a chat with friends list, which can be added with the ips of the local network. The messages are sent via Post by the server program.
+Project of a local network chat in Python using threads and PyQt framework. The program consists of a chat with friends list, which can be added with the ips of the local network. The messages are sent via Post by the server program.
 The project was developed in Python using the MVC (Model, View, Controller) pattern.
